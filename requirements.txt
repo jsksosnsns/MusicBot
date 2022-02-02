@@ -10,7 +10,7 @@ py-tgcalls
 wget
 python-dotenv
 youtube_search_python
-youtube_search
+yt_dlp
 speedtest-cli
 motor
 psutil
